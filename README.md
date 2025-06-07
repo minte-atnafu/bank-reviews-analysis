@@ -20,8 +20,8 @@ Omega Consultancy is supporting banks to improve their mobile apps to enhance cu
 ```
 fintech_app_analytics/
 ├── data/
-│   ├── raw/         # Raw scraped data
-│   └── processed/   # Cleaned and processed data
+│   ├── bank_reviews.csv/         # scraped and preprocessed data
+│   └── sentiment_themes.csv/   # sentiment
 ├── scripts/         # Python scripts for scraping, analysis, and database operations
 ├── notebooks/       # Jupyter notebooks for analysis and visualization
 ├── database/        # Database schema and SQL scripts
